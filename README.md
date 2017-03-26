@@ -1,1 +1,1 @@
-# springmvc
+# Spring MVC Demo application
